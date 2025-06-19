@@ -133,14 +133,15 @@ streamlit run app.py
 ## 🌟 Author
 
 **Aditya Kumar**
-Market Mix Modeling | Data Analyst | IIT Delhi (TRIPP)
+Market Mix Modeling | Data Analyst | Data Science | IIT Delhi
 Feel free to connect or contribute!
 
 ---
 
-## 🎨 Screenshot (Optional)
+## 🎨 Screenshot
+![image](https://github.com/user-attachments/assets/6746b38a-d404-4fb6-90bd-148115548b4f)
 
-Add one here to show the output.
+
 
 ---
 
